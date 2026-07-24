@@ -2,9 +2,14 @@
 .classpath
 node_modules/
 .env
+!.env.example
 *.log
+!important.log
 .temp
 *.class
 *pen
 .jss
+.css
+!style.css
+
 
