@@ -1,0 +1,6 @@
+.setting
+.classpath
+node_modules/
+.env
+*.log
+.temp
