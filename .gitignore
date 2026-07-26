@@ -10,5 +10,5 @@
 .jss
 .css
 !style.css
-
+node_modules/
 
