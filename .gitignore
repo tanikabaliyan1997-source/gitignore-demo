@@ -1,9 +1,7 @@
 .setting
 .classpath
-node_modules/
 .env
 !.env.example
-!.env.module
 *.log
 !important.log
 .temp
